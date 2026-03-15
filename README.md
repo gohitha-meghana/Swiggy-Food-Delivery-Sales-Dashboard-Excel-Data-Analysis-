@@ -6,6 +6,7 @@ Microsoft Excel – Data analysis and dashboard creation ,
 Pivot Tables – Data aggregation and analysis  ,
 Charts & Graphs – Data visualization ,
 Slicers – Interactive filtering .
+## Swiggy Raw Dataset - https://github.com/gohitha-meghana/Swiggy-Food-Delivery-Sales-Dashboard-Excel-Data-Analysis-/blob/main/Swiggy%20Raw%20Data.xlsx
 
 ## Dataset Description
 The dataset contains food delivery order information including:-
@@ -64,8 +65,5 @@ Cities like Bengaluru, Lucknow, and Hyderabad generate the highest revenue,
 Sales remain consistently strong throughout the year with slight monthly fluctuations .
 
 ## Dashboard Preview
-Swiggy Raw Data : 
+Swiggy Raw Data Excel Dashboard : 
 
-Upload your dashboard image and display it like this in GitHub:
-
-![Swiggy Dashboard](swiggy_excel_dashboard.png)
