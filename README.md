@@ -65,5 +65,5 @@ Cities like Bengaluru, Lucknow, and Hyderabad generate the highest revenue,
 Sales remain consistently strong throughout the year with slight monthly fluctuations .
 
 ## Dashboard Preview
-Swiggy Raw Data Excel Dashboard : 
+Swiggy Raw Data Excel Dashboard : https://github.com/gohitha-meghana/Swiggy-Food-Delivery-Sales-Dashboard-Excel-Data-Analysis-/blob/main/Swiggy%20Raw%20Data%20Excel%20Dashboard.png
 
